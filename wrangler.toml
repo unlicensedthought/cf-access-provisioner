@@ -1,0 +1,6 @@
+name = "cf-access-provisioner"
+main = "src/index.ts"
+compatibility_date = "2026-01-01"
+
+# Secrets, set with `wrangler secret put`:
+#   ADMIN_TOKEN, CF_API_TOKEN, CF_ACCOUNT_ID
